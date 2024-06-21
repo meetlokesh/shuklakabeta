@@ -15,7 +15,8 @@ body {
   margin: 0;
   padding: 0;
    height: 100vh;
-  background: var(--light-brown)
+  background: var(--light-brown);
+  background-image: url("../assets/baloon.jpg");
 }
 .swiper-container {
   width: 100%;
@@ -58,7 +59,7 @@ border-radius: 00px;
 
 }
 .orangetext{
-  color:orangered;
+  color:indigo;
 }
 .flex-center{
   display: flex;
